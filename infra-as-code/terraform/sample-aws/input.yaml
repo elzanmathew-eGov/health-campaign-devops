@@ -16,3 +16,5 @@ domain_name: "hcm-console.digit.org"
 
 # Replace with the name you want to give to your S3 bucket which is used to store the terraform states
 terraform_state_bucket_name: "testhealth-k8supgrade-digit-buckets"
+
+public_ssh_key: "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCDW3fvwqzcMweJlXWrACF2dfkKdbKeSw2Z2jqiOfvztRP7+TFoskLTKUTwAGs2wOO80r7cL5MA7iaqFMkSPuPPTuti2Ybf/40tEpGU6kFFYdhlEQbeUMQcM3yvk+pHCtsT+7PuOclpxkmW31gGa4XmtDFf4bPfsEj70WXPqzuH7JP1CaiU/Bu0j82wcxeh+g7vRdO+q1OevXQfT4pCljTr8JU6quUhxROwZQLGacA8AWnR0ATVnmhlcln6I/LZAEhHsPNSbwgxJrrUjgVqh70FbBuyzUHWYIyAxCcvBGt3FvkRp+FitYQW2qFsyDy9deegHDA1GnN9oJVsGDSU9Xgh"
